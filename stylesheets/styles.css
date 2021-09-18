@@ -110,6 +110,7 @@ a{
     position: relative;
     text-align: center;
 
+    transition: tranform 33ms;
 }   
 
 .is-tiny{
